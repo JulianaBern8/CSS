@@ -1,0 +1,39 @@
+body {
+background: gray;
+{
+h1 {
+color: blue;
+{
+
+/* all h2 elements */
+
+.column {
+flex: 33%;
+height: 200 px;
+padding: 10px;
+margin: 5px;
+background-color: yellow;
+text-align: center;
+}
+.container {
+ display: flex;
+}
+#p1 {
+color: white;
+background-color: lightgreen;
+clear: right;
+}
+#p2 {
+color: red;
+background-color: pink;
+clear: right;
+}
+#p3 {
+color: lightblue;
+background-color: violet;
+clear: right;
+}
+section {
+clear: right;
+}
+
